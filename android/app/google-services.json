@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463030189157",
+    "project_id": "silent-corner",
+    "storage_bucket": "silent-corner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463030189157:android:ee6ddb9bdc2699af54da8c",
+        "android_client_info": {
+          "package_name": "com.example.silent_corner_social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAypyhEfkP0JBFFahwI1EMxZBQqPUnUw-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
